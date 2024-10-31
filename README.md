@@ -3,8 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 To run this project:
-run `git clone https://github.com/omokehinde/youtube-viewer.git`
-run `npm install` 
+1. run `git clone https://github.com/omokehinde/youtube-viewer.git`
+2. run `cd youtube-viewer`
+3. run `npm install` 
+4. run `npm start`
+ensure the flask app is running locally first and redis is setup properly and running before running `npm start` 
 
 ## Available Scripts
 
